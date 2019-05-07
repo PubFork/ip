@@ -1,14 +1,12 @@
 {
     "pluginName": "IP地址查询",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "根据IP查询其所在的地理位置",
     
     "author": "fnoopv",
     "main": "index.html",
     "logo": "logo.png",
-    "development": {
-        "buildPath": "./../release"
-    },
+
     "features": [
         {
             "code": "ip", 
