@@ -3,9 +3,12 @@
     "version": "0.0.1",
     "description": "根据IP查询其所在的地理位置",
     
-    "author": "fnoop",
+    "author": "fnoopv",
     "main": "index.html",
     "logo": "logo.png",
+    "development": {
+        "buildPath": "./../release"
+    },
     "features": [
         {
             "code": "ip", 
