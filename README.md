@@ -7,7 +7,7 @@
 
 ## 截图
 
-![info.png](http://yanxuan.nosdn.127.net/05cd91ba2f44c4967db0a365ba990675.png)
+![info.png](https://i.loli.net/2019/05/08/5cd1b9fc81cc8.png)
 
 ## 后续计划
 - 支持查询记录同步
