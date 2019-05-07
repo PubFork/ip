@@ -1,0 +1,17 @@
+{
+    "pluginName": "IP地址查询",
+    "version": "0.0.1",
+    "description": "根据IP查询其所在的地理位置",
+    
+    "author": "fnoop",
+    "main": "index.html",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "ip", 
+            "cmds":[
+              "ip","IP", "Ip"
+          ] 
+       }
+    ]
+}
