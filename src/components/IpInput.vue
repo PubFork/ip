@@ -25,6 +25,7 @@ export default {
   methods: {
     submit: function() {
         if (this.isValidIP(this.ipaddress) == true) {
+            this.delNotice()
             this.$emit("getIpFromInput", this.ipaddress);
         } else {
             this.errorNotice()
