@@ -15,13 +15,11 @@
 
 <script>
 import Input from "./components/IpInput"
-import Info from "./components/IpInfo"
 
 export default {
   name: 'app',
   components: {
-    Input,
-    Info
+    Input
   },
   data: function() {
     return {

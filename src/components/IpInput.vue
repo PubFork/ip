@@ -5,6 +5,7 @@
       placeholder="请输入IP地址，按回车进行查询"
       maxlength="15"
       v-model="ipaddress"
+      autofocus="true"
       @keyup.enter.native="submit"
       @keyup.delete.native="delNotice"
       clearable
